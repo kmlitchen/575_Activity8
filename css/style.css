@@ -1,3 +1,7 @@
-/*Add CSS styles here*/
-
+/*setting map height*/
 #map { height: 550px; }
+
+/* set margin size in leaflet popups*/
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
